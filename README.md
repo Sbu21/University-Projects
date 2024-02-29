@@ -37,7 +37,7 @@
   </tr>
       <tr>
     <td> 1. </td>
-    <td> <b>Objected Oriented Programming</b> </td>
+    <td> <a href="https://github.com/Sbu21/Life-after-school-gui"><b>Objected Oriented Programming</b></a> </td>
   </tr>
   <tr>
     <td> 2. </td>
