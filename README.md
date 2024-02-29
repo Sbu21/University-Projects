@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td> 2. </td>
-    <td> <b>Data Structures and Algorithms</b> </td>
+    <td> <a href="https://github.com/Sbu21/DataStructuresAndAlgorithms"><b>Data Structures and Algorithms</b></a> </td>
   </tr>
   <tr>
     <td> 3. </td>
