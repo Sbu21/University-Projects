@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td> 3. </td>
-    <td> <a href=""><b>Functional and logic programming</b></a>  </td>
+    <td> <a href="https://github.com/Sbu21/FunctionalAndLogicProgramming"><b>Functional and logic programming</b></a>  </td>
   </tr>
   <tr>
     <td> 4. </td>
