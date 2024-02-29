@@ -80,6 +80,6 @@
   </tr>
   <tr>
     <td> 5. </td>
-    <td> <b>Probabilities and Statistics</b> </td>
+    <td> <a href="https://github.com/Sbu21/MatLabProjects"><b>Probabilities and Statistics</b></a> </td>
   </tr>
 </table>
