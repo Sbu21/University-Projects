@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td> 1. </td>
-    <td> <b>Fundamentals of Programming</b> </td>
+    <td> <a href="https://github.com/Sbu21/BattleshipsGame"><b>Fundamentals of Programming</b></a> </td>
   </tr>
   <tr>
     <td> 2. </td>
